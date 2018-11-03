@@ -1,2 +1,4 @@
 # Flareon5-2018
-my solutions to FlareOn5 challenges
+the original FlareOn5 challenge questions & my solutions to them.
+
+- Asuna
